@@ -1,11 +1,14 @@
-pertama Buka SQL Shell (psql), kemudian login :
+Pertama Buka SQL Shell (psql), kemudian login :
 ![image](https://github.com/WinaApriliani4/pertemuan1-basis-data/assets/148308987/63529ffc-1497-409a-b128-30f14bfe37c0)
 ![image](https://github.com/WinaApriliani4/pertemuan1-basis-data/assets/148308987/41917c3b-143b-45fb-a9c6-372124c1aa0e)
+
 membuat database :
 ![image](https://github.com/WinaApriliani4/pertemuan1-basis-data/assets/148308987/c4f16173-c22e-48fe-aa7d-1bca4ae9c02d)
+
 cara mengecek database yang telah dibuat :
 ![image](https://github.com/WinaApriliani4/pertemuan1-basis-data/assets/148308987/c3c83e76-9eea-4906-9a78-8f9f8eb24fbb)
 ![image](https://github.com/WinaApriliani4/pertemuan1-basis-data/assets/148308987/96bec57c-eaa2-4336-a4d5-c1e2c4eabc25)
+
 membuat tabel nama mahasiswa :
 ![image](https://github.com/WinaApriliani4/pertemuan1-basis-data/assets/148308987/3553e459-c089-4706-a4e7-45d9949a2d55)
 ![image](https://github.com/WinaApriliani4/pertemuan1-basis-data/assets/148308987/d3b04fb1-460a-4e45-a9e4-11cf1074c16d)
