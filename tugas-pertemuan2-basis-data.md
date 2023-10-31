@@ -22,6 +22,8 @@
 ![image](https://github.com/WinaApriliani4/pertemuan1-basis-data/assets/148308987/65d62153-943a-4cc1-a7d3-14b9eb36b8c5)
 
 ## Tabel di DBeaver :
+![image](https://github.com/WinaApriliani4/pertemuan1-basis-data/assets/148308987/7cacc512-79b8-402a-86d5-8b56874fa1f7)
+
 
 
 
